@@ -1,4 +1,6 @@
-# [LinkedIn](https://www.linkedin.com/in/owendaynes) | [Send me an e-mail](mailto:hello@owendaynes.co.uk)
+# Owen Daynes
+
+##  [LinkedIn](https://www.linkedin.com/in/owendaynes) | [Send me an e-mail](mailto:hello@owendaynes.co.uk)
 
 <br />
 
