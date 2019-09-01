@@ -1,8 +1,6 @@
 # Owen Daynes
 
-###  Contact
-- [LinkedIn](https://www.linkedin.com/in/owendaynes) 
-- [Send me an e-mail](mailto:hello@owendaynes.co.uk)
+##  [LinkedIn](https://www.linkedin.com/in/owendaynes) | [Send me an e-mail](mailto:hello@owendaynes.co.uk)
 
 ### Profile
 
