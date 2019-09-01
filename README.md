@@ -1,5 +1,7 @@
 # [LinkedIn](https://www.linkedin.com/in/owendaynes) | [Send me an e-mail](mailto:hello@owendaynes.co.uk)
 
+<br />
+
 ### Profile
 
 A proactive, punctual Software Developer who has a desire to learn, enthusiasm and eagerness to take on new and challenging tasks and a passion for all things computing, science and technology.
@@ -8,6 +10,9 @@ A proactive, punctual Software Developer who has a desire to learn, enthusiasm a
 
 #### University of Essex | 2014 – 2018  
 ##### BSc Computer Science - First Class
+
+Dissertation title: Plagiarism Indication Tool (PIT) <br />
+
 Relevant  modules  include: 
   - Advanced  Programming  (Java) 
   - Artificial  Intelligence 
@@ -19,15 +24,15 @@ Relevant  modules  include:
   - Large  Scale  Software  Systems  and  Extreme  Programming  (XP)  
   - Natural  Language Engineering
 
-Dissertation title: Plagiarism Indication Tool (PIT)
 
 #### Suffolk One | 2012 – 2014 
-Level 3 Subsidiary BTEC: ICT (Distinction *)
-A-Levels: Computing (D), English Language (D)
+Level 3 Subsidiary BTEC: ICT (Distinction *) <br />
+A-Levels: Computing (D), English Language (D) <br />
+
 
 #### Chantry High School | 2007 – 2012
-Level 2 BTEC: ICT (Distinction *)
-GCSEs: 9 (A –C grades) includes English, Maths and Science.
+Level 2 BTEC: ICT (Distinction *) <br />
+GCSEs: 9 (A –C grades) includes English, Maths and Science. <br />
 
 ### Experience
 
